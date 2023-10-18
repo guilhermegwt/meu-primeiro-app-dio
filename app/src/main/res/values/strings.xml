@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="info_text">Este é um simples App utilizando Views que demonstra a implementação de Localização no Android.</string>
+</resources>
